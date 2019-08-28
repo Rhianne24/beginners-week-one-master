@@ -1,0 +1,28 @@
+body {
+  background-color: pink;
+}
+h1 {
+  color: red;
+  margin-left: 60px;
+}
+p {
+  color: white;
+  margin-left: 50px;
+}
+body {
+  colour: white;
+  font-family: cursive;
+}
+div {
+  min-height: 60vh;
+  width: 100vw;
+}
+#myDiv {
+  font-family: cursive;
+  background-color: lightblue;
+}
+div.myClass {
+  font-family: monospace;
+  colour: orange;
+  margin-left: 50px
+}
